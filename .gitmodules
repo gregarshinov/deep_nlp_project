@@ -1,0 +1,3 @@
+[submodule "ficbook-crawler"]
+	path = ficbook-crawler
+	url = https://github.com/gregarshinov/ficbook-crawler.git
